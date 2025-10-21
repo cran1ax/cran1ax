@@ -1,10 +1,10 @@
 <!-- Header -->
-<h1 align="center">Hi there 👋, I'm Aishwarya</h1>
+<h1 align="center">Hi there 👋, I'm Samarth</h1>
 <h3 align="center">AI/ML Engineer | Django Developer | Cybersecurity Enthusiast</h3>
 
 <!-- About Me -->
 ### 💡 About Me
-- 🎓 Engineering student at **Mumbai University**, specializing in **AI & ML**.  
+- 🎓 Engineering student at **Mumbai University**, specializing in **Computer Engineering**.  
 - 💻 Passionate about building efficient **Django web apps** and **AI-driven systems**.  
 - 🔒 Currently developing a **Cyber Threat Intelligence Bot** for my major project.  
 - 🌱 Learning **REST APIs, Blockchain fundamentals, and Cloud integrations**.  
@@ -45,12 +45,12 @@
 
 <!-- Contact -->
 ### 🌐 Connect With Me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/aishwarya101)
-[![GitHub Followers](https://img.shields.io/github/followers/aishwarya101?label=Follow&style=social)](https://github.com/aishwarya101)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://instagram.com/aishwarya.dev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/samarth-pingat/)
+[![GitHub Followers](https://img.shields.io/github/followers/aishwarya101?label=Follow&style=social)](https://github.com/cran1ax)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/cran1ax/)
 
 ---
 
 <!-- Fun -->
 ### ⚡ Fun Fact
-I type over **110 WPM** and love discovering new developer tools daily!
+I am a Chess enthusiast too!
