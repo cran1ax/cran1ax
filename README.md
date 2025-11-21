@@ -36,10 +36,8 @@
 
 <!-- Projects -->
 ### 🚀 Featured Projects
-- 🔐 [Cyber Threat Intelligence Bot](https://github.com/aishwarya101/cyber-threat-intelligence-bot)  
+- 🔐 [Cyber Threat Intelligence Bot](https://github.com/cran1ax/cyber-threat-intelligence-bot)  
   A Django-based bot leveraging threat intelligence APIs to detect malicious domains.
-- 🤖 [AI Resume Analyzer](https://github.com/aishwarya101/ai-resume-analyzer)  
-  Uses NLP models to assess resumes and provide job-matching scores.
 
 ---
 
