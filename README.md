@@ -36,7 +36,7 @@
 
 <!-- Projects -->
 ### 🚀 Featured Projects
-- 🔐 [Cyber Threat Intelligence Bot](https://github.com/cran1ax/MajorProject-CTI)  
+- 🔐 [MajorProject-CTI](https://github.com/cran1ax/MajorProject-CTI)  
   A Django-based bot leveraging threat intelligence APIs to detect malicious domains.
 
 ---
