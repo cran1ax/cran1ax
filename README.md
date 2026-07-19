@@ -39,8 +39,10 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cran1ax&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cran1ax&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <!-- Added &v=1 to force cache clear -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cran1ax&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" height="165"/>
+  <!-- Added &v=1 to force cache clear -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cran1ax&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -58,7 +60,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/cran1ax">
-    <img src="https://img.shields.io/github/followers/cran1ax?style=for-the-badge&logo=github&color=24292e" alt="GitHub Followers" />
+    <!-- Added &v=1 to force cache clear -->
+    <img src="https://img.shields.io/github/followers/cran1ax?style=for-the-badge&logo=github&color=24292e&v=1" alt="GitHub Followers" />
   </a>
   <a href="https://www.instagram.com/cran1ax/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
