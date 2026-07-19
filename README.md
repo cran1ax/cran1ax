@@ -69,4 +69,4 @@
 ---
 
 ### ⚡ Fun Facts
-♟️ When I'm not coding, you can usually find me organizing tournaments as the Head of Chess Events, analyzing complex motifs, or hitting the heavy bags for a kickboxing session!
+♟️ When I'm not coding, you can usually find me analyzing complex motifs, or hitting the heavy bags for a kickboxing session!
