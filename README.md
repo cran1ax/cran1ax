@@ -39,16 +39,16 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_CORRECT_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_CORRECT_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cran1ax&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cran1ax&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-> **[Distributed LLM Inference Pipeline](https://github.com/YOUR_CORRECT_USERNAME)** > ⚙️ Engineered a multi-node, CPU-based distributed inference system using llama.cpp and RPC to run heavy computational layers efficiently.
+> **[Distributed LLM Inference Pipeline](https://github.com/cran1ax)** > ⚙️ Engineered a multi-node, CPU-based distributed inference system using llama.cpp and RPC to run heavy computational layers efficiently.
 
-> **[MajorProject-CTI](https://github.com/YOUR_CORRECT_USERNAME/MajorProject-CTI)** > 🔐 A Django-based bot leveraging VirusTotal and Shodan APIs for real-time threat detection.  
+> **[MajorProject-CTI](https://github.com/cran1ax/MajorProject-CTI)** > 🔐 A Django-based bot leveraging VirusTotal and Shodan APIs for real-time threat detection.  
 
 ---
 
@@ -57,8 +57,8 @@
   <a href="https://www.linkedin.com/in/samarth-pingat/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_CORRECT_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_CORRECT_USERNAME?style=for-the-badge&logo=github&color=24292e" alt="GitHub Followers" />
+  <a href="https://github.com/cran1ax">
+    <img src="https://img.shields.io/github/followers/cran1ax?style=for-the-badge&logo=github&color=24292e" alt="GitHub Followers" />
   </a>
   <a href="https://www.instagram.com/cran1ax/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
