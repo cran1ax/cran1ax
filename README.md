@@ -1,18 +1,18 @@
 <h1 align="center">Hi there 👋, I'm Samarth</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Django+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 💡 About Me
-- 🎓 Engineering student at **Mumbai University**, specializing in **Computer Engineering**.  
-- 💻 Passionate about building efficient **Django web apps** and **AI-driven systems**.  
-- 🔒 Currently developing a **Cyber Threat Intelligence Bot** for my major project.  
-- 🌱 Learning **REST APIs, Blockchain fundamentals, and Cloud integrations**.  
-- 🧠 Always exploring **new open-source tools and GitHub projects**.  
+- 🎓 Final-year Computer Engineering student at **Terna Engineering College, Mumbai University**.  
+- 💼 Previously an AI Engineering Intern at **HealthFirst Priority**, fine-tuning 7B+ parameter LLMs for specialized datasets.
+- 💻 Passionate about building **CPU-based Distributed AI Systems**, **RAG pipelines**, and efficient **Django/FastAPI** web apps.  
+- 🔒 Developed a **Cyber Threat Intelligence Bot** for real-time malicious domain detection.  
+- 🧠 Always exploring open-source tools, managing my Linux Mint dual-boot setup, and optimizing workflows.  
 
 ---
 
@@ -20,6 +20,7 @@
 
 **Languages** <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" title="CSS3"/>
@@ -27,6 +28,8 @@
 
 **Frameworks & Tools** <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
@@ -43,9 +46,9 @@
 ---
 
 ### 🚀 Featured Projects
-> **[MajorProject-CTI](https://github.com/cran1ax/MajorProject-CTI)** > 🔐 A Django-based bot leveraging threat intelligence APIs to detect malicious domains.  
+> **[Distributed LLM Inference Pipeline](https://github.com/cran1ax)** > ⚙️ Engineered a multi-node, CPU-based distributed inference system using llama.cpp and RPC to run heavy computational layers efficiently.
 
-*(Stay tuned for more projects as I build them!)*
+> **[MajorProject-CTI](https://github.com/cran1ax/MajorProject-CTI)** > 🔐 A Django-based bot leveraging VirusTotal and Shodan APIs for real-time threat detection.  
 
 ---
 
@@ -64,5 +67,5 @@
 
 ---
 
-### ⚡ Fun Fact
-♟️ When I'm not coding, you can usually find me analyzing my next move on the **Chess** board!
+### ⚡ Fun Facts
+♟️ When I'm not coding, you can usually find me organizing tournaments as the Head of Chess Events, analyzing complex motifs, or hitting the heavy bags for a kickboxing session!
